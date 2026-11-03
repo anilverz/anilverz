@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Image 1. Banner (Image check karke iska exact file name ya uploaded path replace karein) -->
-<img src="banner.png" width="100%" alt="ANIL KUMAR JHA | Exploring The Unseen" />
+<img src="Banner.png" width="100%" alt="ANIL KUMAR JHA | Exploring The Unseen" />
 
 <br/>
 <br/>
