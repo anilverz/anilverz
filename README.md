@@ -118,7 +118,7 @@
       <img src="https://capsule-render.vercel.app/api?type=slice&color=0:64748B,50:EC4899,100:2563EB&height=16&section=footer" width="100%" />
     </td>
     <td width="50%" valign="bottom">
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=0:64748B,50:EC4899,100:2563EB&height=16&section=footer" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=0:64748B,50:EC4899,100:64748B&height=16&section=footer" width="100%" />
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2563EB,50:EC4899,100:64748B&text=NEURAL%20TELEMETRY%20%E2%80%A2%20STREAM%20METRICS&fontSize=16&fontColor=ffffff&height=42" width="95%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilverz&theme=radical&background=0a192f&border=2563EB&stroke=2563EB&ring=EC4899&fire=2563EB&currStreakNum=EC4899&sideNums=E2E8F0&sideLabels=64748B&dates=94A3B8&hide_border=false" width="95%" alt="Neural Telemetry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilverz&theme=radical&background=0a192f&border=2563EB&stroke=2563EB&ring=EC4899&fire=2563EB&currStreakNum=EC4899&sideNums=E2E8F0&sideLabels=64748B&dates=94A3B8&hide_border=false" width="95%" alt="Neural Telemetry Stats" />
 </div>
 
 ---
@@ -145,7 +145,7 @@
   <a href="https://x.com/anilverz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
   <a href="https://instagram.com/anilverz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
   <a href="https://threads.net/@anilverz" target="_blank"><img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white" height="28" /></a>
-  <a href="https://facebook.com/anilverz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" /></a>
+  <a href="https://facebook.com/anilverz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
   <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28" /></a>
   <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" height="28" /></a>
 </p>
